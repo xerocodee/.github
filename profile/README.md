@@ -31,12 +31,13 @@ Some of the unique features of our app are:
 ## Contributing to the ecosystem
 The open source community is at the core of xerocodee and helps us create solutions to combat climate change. Learn more about our ecosystem at [**xerocodee**](https://xerocodee.com/) and through our projects:
 
-- [UI Libraries]() :
-- [Builder]() :
-- [Dashboard]() :
+- [Webiste](https://github.com/xerocodee/xerocodee.github.io)
+- [UI Libraries](https://github.com/xerocodee/ui-library) :
+- [Builder](https://github.com/xerocodee/builder) :
+- [Workspace]() :
 - [Cloud]() :
-- [Login System]() :
-- [Documentation]()
+- [Advacne OAuth](https://github.com/xerocodee/oauth) :
+- [Documentation](https://github.com/xerocodee/docs)
 
 ## How to get involved?
 
