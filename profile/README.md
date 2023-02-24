@@ -7,7 +7,7 @@
 
 ---
 [![Slack](https://img.shields.io/badge/Slack-%40xerocodee-blue)](https://xerocodee.slack.com/)
-[![Discord](https://img.shields.io/badge/Discord-%40xerocodee-blue)](https://discord.gg/FTf9VD7pMB)
+[![Discord](https://img.shields.io/badge/Discord-%40xerocodee-blue)](https://discord.gg/PzyuFAeeWa)
 [![LinkedIN](https://img.shields.io/badge/LinkedIN-%40xerocodee-blue)](https://www.linkedin.com/company/xerocodee)
 [![Website](https://img.shields.io/badge/Website-%40xerocodee-blue)](https://xerocodee.com/)
 [![Blog](https://img.shields.io/badge/Blog-%40xerocodee-blue)](https://blog.xerocodee.com/)
