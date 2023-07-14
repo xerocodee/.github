@@ -1,13 +1,13 @@
 <br />
 <p align="center">
-    <a href="https://xerocodee.com/" target="_blank"><img width="150" height="150" src="https://xerocodee.com/assets/logo-757a6d52.svg" alt="Appwrite Logo"></a>
+    <a href="https://xerocodee.com/" target="_blank"><img width="150" height="150" src="https://xerocodee.com/assets/logo-757a6d52.svg" alt="XeroCodee Logo"></a>
     <br />
     <br />
     <b>Seamless Deployment across Multi-Cloud, Hybrid</b>
     <b>no more, no less. Deploy from our single pane of glass, manage them with ease and scale up as fast as your workload grows.</b>
     <br />
     <br />
-    <a href="https://xerocodee.com/"><img width="800" height=auto src="https://xerocodee.com/assets/dashboard-53ee70e1.svg" alt="Visit the Appwrite repo"></a>
+    <a href="https://xerocodee.com/"><img width="800" height=auto src="https://xerocodee.com/assets/dashboard-53ee70e1.svg" alt="Visit the XeroCodee repo"></a>
 </p>
 
 <h2>Save 1000s of expensive coder hours</h2>
