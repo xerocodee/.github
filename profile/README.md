@@ -3,11 +3,11 @@
     <a href="https://xerocodee.com/" target="_blank"><img width="150" height="150" src="https://xerocodee-frontend-assets.s3.ap-south-1.amazonaws.com/frontend-web/images/logo.svg" alt="XeroCodee Logo"></a>
     <br />
     <br />
-    <b>Seamless Deployment across Multi-Cloud, Hybrid</b>
-    <b>no more, no less. Deploy from our single pane of glass, manage them with ease and scale up as fast as your workload grows.</b>
+    <b>Elevate Your Application Performance with XeroCodee</b><br>
+    <b>Harness the Power of AI to Revolutionize Your Application Management</b>
     <br />
     <br />
-    <a href="https://xerocodee.com/"><img width="800" height=auto src="https://xerocodee-frontend-assets.s3.ap-south-1.amazonaws.com/frontend-web/images/landing/dashboard.svg" alt="Visit the XeroCodee repo"></a>
+    <a href="https://xerocodee.com/"><img width="800" height=auto src="../images/seo-banner.png" alt="Visit the XeroCodee repo"></a>
 </p>
 
 <h2>Save 1000s of expensive coder hours</h2>
