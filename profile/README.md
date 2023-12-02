@@ -10,13 +10,13 @@
     <a href="https://xerocodee.com/"><img width="800" height=auto src="../images/seo-banner.png" alt="Visit the XeroCodee repo"></a>
 </p>
 
-<h2>Save 1000s of expensive coder hours</h2>
+<h2>Innovative Features Tailored for Excellence</h2>
 
 <ul>
-    <li>Infrastructure : Automated Cloud Infrastructure Workflow</li>
-    <li>Security : Modern Secure Infrastructure Approach</li>
-    <li>Networking : Flexible Secure Application Connectivity</li>
-    <li>Applications : Automate Application Deployment for Agility</li>
+    <li>Real-Time Analytics: Monitor application performance in real time.</li>
+    <li>Predictive Maintenance: Use AI to predict and prevent potential issues.</li>
+    <li>Automated Problem Resolution: Automatically resolve identified performance issues.</li>
+    <li>Customizable Dashboards: Tailor the interface to meet your specific monitoring needs.</li>
 </ul>
 
 <h2>Connect With Us 🫂</h2>
