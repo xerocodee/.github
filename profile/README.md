@@ -7,7 +7,7 @@
     <b>Harness the Power of AI to Revolutionize Your Application Management</b>
     <br />
     <br />
-    <a href="https://xerocodee.com/"><img width="800" height=auto src="../images/seo-banner.png" alt="Visit the XeroCodee repo"></a>
+    <a href="https://xerocodee.com/"><img width="800" height=auto src="https://raw.githubusercontent.com/xerocodee/.github/main/images/SEO-Banner.png" alt="Visit the XeroCodee repo"></a>
 </p>
 
 <h2>Innovative Features Tailored for Excellence</h2>
