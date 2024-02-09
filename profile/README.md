@@ -3,11 +3,11 @@
     <a href="https://xerocodee.com/" target="_blank"><img width="150" height="150" src="https://xerocodee-frontend-assets.s3.ap-south-1.amazonaws.com/frontend-web/images/logo.svg" alt="XeroCodee Logo"></a>
     <br />
     <br />
-    <b>Elevate Your Application Performance with XeroCodee</b><br>
-    <b>Harness the Power of AI to Revolutionize Your Application Management</b>
+    <b>XeroCodee</b><br>
+    <b>Predict. Optimize. Perform. Secure.</b>
     <br />
     <br />
-    <a href="https://xerocodee.com/"><img width="800" height=auto src="https://raw.githubusercontent.com/xerocodee/.github/main/images/SEO-Banner.png" alt="Visit the XeroCodee repo"></a>
+    <a href="https://xerocodee.com/"><img width="800" height=auto src="../images/cover-image.png" alt="Visit the XeroCodee repo"></a>
 </p>
 
 <h2>Innovative Features Tailored for Excellence</h2>
@@ -21,7 +21,8 @@
 
 <h2>Connect With Us 🫂</h2>
 <ul>
+    <li>Join our <a href="https://join.slack.com/t/xerocodee/shared_invite/zt-1u40v2902-1YLQZsCLUw8bN9dHa3Zudw">Slack Channel</a></li>
+    <li>Join our <a href="https://discord.gg/PJYktCbw">Discord Channel</a></li>
     <li>Join our <a href="https://github.com/orgs/xerocodee/discussions">Github Discussion</a></li>
-    <li>Join our <a href="https://join.slack.com/t/xerocodee-workspace/shared_invite/zt-1u40v2902-1YLQZsCLUw8bN9dHa3Zudw">Slack Channel</a></li>
     <li>Follow us on <a href="https://www.linkedin.com/company/xerocodee/">LinkedIn</a></li>
 </ul>
